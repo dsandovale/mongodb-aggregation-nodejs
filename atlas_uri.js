@@ -1,0 +1,1 @@
+module.exports = api = "mongodb+srv://appuser:fsPhoiG7PCZnmv2u@cluster0.kif6aj5.mongodb.net/?retryWrites=true&w=majority";
